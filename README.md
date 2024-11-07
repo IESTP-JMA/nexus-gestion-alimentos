@@ -1,9 +1,6 @@
 # Aplicación de Gestión de Ingredientes y Generación de Recetas (AGIGR)
 
 Las personas a menudo se encuentran con alimentos en casa, como verduras, frutas y condimentos, pero no saben qué platos preparar con ellos. Esto puede generar falta de inspiración culinaria y llevar al desperdicio de alimentos. Existe una necesidad de una herramienta que ayude a aprovechar al máximo los ingredientes disponibles y facilite la planificación de comidas.
-
-## Problema identificado:
-Los usuarios no saben qué platos pueden preparar con los ingredientes que ya tienen, lo que dificulta la planificación de comidas y puede resultar en desperdicio de alimentos.
 ## Solución:
 
 Una aplicación que recibe los ingredientes que el usuario tiene disponibles y sugiere recetas basadas en ellos, optimizando el uso de los alimentos, evitando desperdicios y facilitando la planificación de comidas.
