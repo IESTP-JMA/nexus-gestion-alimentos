@@ -15,11 +15,11 @@ Una aplicación que recibe los ingredientes que el usuario tiene disponibles y s
 ## prottotipo de la app 
 - [Ver el diseño en Figma](https://www.figma.com/proto/NyuriJiSRTiDFtoIxf4mPE/gestion-de-alimentos?node-id=0-1&t=H3uM1CoXP4o6i0ND-1)
 ## entorno de trabajo 
-- [Ver el diseño en Figma](https://trello.com/invite/b/67099c505aaa0e4c8e249623/ATTI44241aa37b5ec9395e5cec5dcfba7e7fA60923C0/gestion-de-alimentos)
+- [Ver el entorno de trabajo](https://trello.com/invite/b/67099c505aaa0e4c8e249623/ATTI44241aa37b5ec9395e5cec5dcfba7e7fA60923C0/gestion-de-alimentos)
 ## docuewntacion
 - en proceso de subida
 ## landing page 
-- [Ver el diseño en Figma](https://iestp-jma.github.io/nexus-gestion-alimentos/)
+- [Visita nuestra pagina web](https://iestp-jma.github.io/nexus-gestion-alimentos/)
 ## colaboradores
 - ccaccachahua amao, ronal miguel
 - roman astoyauri ronny
