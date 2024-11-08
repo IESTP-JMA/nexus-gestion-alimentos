@@ -17,7 +17,7 @@ Una aplicación que recibe los ingredientes que el usuario tiene disponibles y s
 ## entorno de trabajo 
 - [Ver el entorno de trabajo](https://trello.com/invite/b/67099c505aaa0e4c8e249623/ATTI44241aa37b5ec9395e5cec5dcfba7e7fA60923C0/gestion-de-alimentos)
 ## documentacion de la app
--[ver documentacion]https://docs.google.com/document/d/1F4QoZQQr69XOfcOOTu_-rfqI6t9tyQ6SlkLR8h8v1e0/edit?usp=sharing
+- [ver documentacion](https://docs.google.com/document/d/1F4QoZQQr69XOfcOOTu_-rfqI6t9tyQ6SlkLR8h8v1e0/edit?usp=sharing)
 ## landing page 
 - [Visita nuestra pagina web](https://iestp-jma.github.io/nexus-gestion-alimentos/)
 ## colaboradores
